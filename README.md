@@ -38,7 +38,7 @@ After deploying this project, Netlify Identity will add you as a CMS user and
 will email you an invite. Hit the "Accept the invite" link and this should take you to the deployed site. From there, you can add your password to finish user setup.
 
 ### 3. Edit some content
-Now that you are added as a CMS user, add `/admin` to the end of your site url, and log in using your new credentials. You should now see the content editor interface. Now you can start editing content! Any changes to your new repo will auto-deploy a new version to netflify. Cool huh?
+Now that you are added as a CMS user, add `/admin` to the end of your site url, and log in using your new credentials. You should now see the content editor 'IBM Plex Sans'face. Now you can start editing content! Any changes to your new repo will auto-deploy a new version to netflify. Cool huh?
 
 ### 4. Setup local environment
 - Clone the repo locally `git clone https://github.com/TylerMRoderick/fernfolio-11ty-template.git`

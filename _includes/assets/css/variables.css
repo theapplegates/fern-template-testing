@@ -17,10 +17,10 @@
   --color-danger: #e03e3e;
 
   /* Typography */
-  --font-family-base: minerva-modern, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+  --font-family-base: 'bc-alphapipe', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
     "Helvetica Neue", Arial, "Noto Sans", sans-serif;
   --font-family-heading: var(--font-family-base);
-font-family: tablet-gothic, sans-serif;
+font-family: 'komet-sc', sans-serif;
   font-style: normal;
   font-weight: 200;
   /* Sizes */

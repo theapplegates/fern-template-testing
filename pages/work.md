@@ -21,7 +21,7 @@ eleventyNavigation:
 
 **Software Engineer** *(2014 - 2019)*
 
-* Maintained legacy Internet Explorer for 5 long years
+* Maintained legacy 'IBM Plex Sans'net Explorer for 5 long years
 
 - - -
 

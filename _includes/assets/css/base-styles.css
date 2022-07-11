@@ -177,7 +177,7 @@ textarea {
   background-color: var(--color-primary);
   color: var(--color-bg);
   border-radius: 1px;
-  cursor: pointer;
+  cursor: po'IBM Plex Sans';
   box-sizing: border-box; }
   .btn[disabled], button[disabled], input[type="submit"][disabled], input[type="reset"][disabled], input[type="button"][disabled] {
     cursor: default;
