@@ -17,9 +17,9 @@
   --color-danger: #e03e3e;
 
   /* Typography */
-  --font-family-base: 'Manrope', sans-serif;
+  --font-family-base: 'Manrope';
   --font-family-heading: var(--font-family-base);
-font-family: 'Manrope', sans-serif;
+font-family: 'Manrope';
   font-style: normal;
   font-weight: 200;
   /* Sizes */
