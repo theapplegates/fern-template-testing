@@ -1,0 +1,11 @@
+@font-face {
+font-family:"komet-sc";
+src:url("/_includes/assets/fonts/komet-sc-normal-200.woff2")
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
+
+@font-face {
+font-family:"Manrope";
+src:url("/_includes/assets/fonts/Manrope-normal400.woff2")
+font-display:auto;font-style:normal;font-weight:200;font-stretch:normal;
+}
